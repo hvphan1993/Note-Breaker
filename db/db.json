@@ -1,3 +1,14 @@
 {
-  "notes": []
+  "notes": [
+    {
+      "title": "Look I am a note!",
+      "text": "Hello!",
+      "id": "33f0e5ec-67ec-4353-84e2-470209843c4b"
+    },
+    {
+      "title": "Call me 'another note'",
+      "text": "Nice to meet you!",
+      "id": "1b61b1a0-284b-4feb-aa1f-da5da564de4a"
+    }
+  ]
 }
